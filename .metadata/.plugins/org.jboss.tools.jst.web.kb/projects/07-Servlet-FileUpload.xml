@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kb-project>
+ <depends-on-projects/>
+ <used-by-projects/>
+ <paths>
+  <path value="C:/Users/asus/.m2/repository/jstl/jstl/1.2/jstl-1.2.jar">
+   <libraries>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/c-1_0-rt.tld" project="07-Servlet-FileUpload"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/c-1_0.tld" project="07-Servlet-FileUpload"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/c.tld" project="07-Servlet-FileUpload"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/fmt-1_0-rt.tld" project="07-Servlet-FileUpload"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/fmt-1_0.tld" project="07-Servlet-FileUpload"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/fmt.tld" project="07-Servlet-FileUpload"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/fn.tld" project="07-Servlet-FileUpload"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/permittedtaglibs.tld" project="07-Servlet-FileUpload"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/scriptfree.tld" project="07-Servlet-FileUpload"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/sql-1_0-rt.tld" project="07-Servlet-FileUpload"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/sql-1_0.tld" project="07-Servlet-FileUpload"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/sql.tld" project="07-Servlet-FileUpload"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/x-1_0-rt.tld" project="07-Servlet-FileUpload"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/x-1_0.tld" project="07-Servlet-FileUpload"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/x.tld" project="07-Servlet-FileUpload"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="C:/Users/asus/.m2/repository/jakarta/platform/jakarta.jakartaee-api/8.0.0/jakarta.jakartaee-api-8.0.0.jar"/>
+ </paths>
+ <validation>
+  <core validator-id="jsf-verification"/>
+  <core validator-id="jboss.cdi.core"/>
+  <core validator-id="batch-verification"/>
+  <core validator-id="jboss.jsf.core"/>
+  <el>
+   <linked-el length="15" name="%0" offset="1877" path="%1"/>
+   <linked-el length="16" name="%2" offset="891" path="%3"/>
+   <linked-el length="18" name="%4" offset="404" path="%1"/>
+   <linked-el length="16" name="%5" offset="1656" path="%1"/>
+   <linked-el length="14" name="%6" offset="1432" path="%1"/>
+   <linked-el length="12" name="%7" offset="706" path="%8"/>
+   <linked-el length="73" name="%9" offset="1354" path="%1"/>
+   <linked-el length="75" name="%9" offset="1576" path="%1"/>
+   <linked-el length="74" name="%9" offset="1798" path="%1"/>
+   <linked-el length="43" name="%9" offset="1106" path="%1"/>
+   <linked-el length="16" name="%10" offset="566" path="%1"/>
+   <linked-el length="17" name="%11" offset="926" path="%3"/>
+   <linked-el length="54" name="%12" offset="996" path="%3"/>
+   <linked-el length="11" name="%13" offset="508" path="%1"/>
+   <linked-el length="54" name="%14" offset="996" path="%3"/>
+   <linked-el length="16" name="%14" offset="891" path="%3"/>
+   <linked-el length="17" name="%14" offset="926" path="%3"/>
+  </el>
+ </validation>
+ <aliases>
+  <alias path="/07-Servlet-FileUpload/src/main/webapp/display.jsp" value="%3"/>
+  <alias path="/07-Servlet-FileUpload/src/main/webapp/common/menu.jsp" value="%1"/>
+  <alias path="bootstrapCSS" value="%4"/>
+  <alias path="studentList" value="%5"/>
+  <alias path="title" value="%9"/>
+  <alias path="userinfo.photo" value="%12"/>
+  <alias path="jquery" value="%13"/>
+  <alias path="studentAdd" value="%0"/>
+  <alias path="userinfo.name" value="%2"/>
+  <alias path="courseAdd" value="%6"/>
+  <alias path="action" value="%7"/>
+  <alias path="/07-Servlet-FileUpload/src/main/webapp/index.jsp" value="%8"/>
+  <alias path="bootstrapJS" value="%10"/>
+  <alias path="userinfo.email" value="%11"/>
+  <alias path="userinfo" value="%14"/>
+ </aliases>
+ <includes/>
+ <uris>
+  <uri value="http://java.sun.com/jsp/jstl/core">
+   <prefix>c</prefix>
+  </uri>
+ </uris>
+</kb-project>

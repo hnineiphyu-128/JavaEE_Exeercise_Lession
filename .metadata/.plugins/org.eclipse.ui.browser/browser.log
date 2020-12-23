@@ -1,0 +1,66 @@
+
+Nov 25, 2020 19:41:45.448 NEW SESSION
+Nov 25, 2020 19:41:45.449 [9156:2768:1125/194145.382:ERROR:device_event_log_impl.cc(208)] [19:41:45.273] Bluetooth: bluetooth_adapter_winrt.cc:716 GetBluetoothAdapterStaticsActivationFactory failed: Class not registered (0x80040154)
+
+Nov 26, 2020 14:09:35.24 NEW SESSION
+Nov 26, 2020 14:09:35.25 [8564:4248:1126/140934.990:ERROR:device_event_log_impl.cc(208)] [14:09:34.949] Bluetooth: bluetooth_adapter_winrt.cc:716 GetBluetoothAdapterStaticsActivationFactory failed: Class not registered (0x80040154)
+Nov 26, 2020 14:18:31.802 [1126/141831.795:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+Nov 26, 2020 14:28:20.154 [8564:604:1126/142820.153:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Nov 26, 2020 14:28:20.194 [8564:604:1126/142820.193:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Nov 26, 2020 14:28:46.320 [8564:604:1126/142846.319:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Nov 26, 2020 14:29:26.646 [8564:604:1126/142926.646:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Nov 26, 2020 14:31:04.936 [8564:604:1126/143104.935:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Nov 26, 2020 14:34:58.955 [8564:604:1126/143458.954:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Nov 26, 2020 14:41:22.330 [8564:604:1126/144122.329:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Nov 26, 2020 14:51:22.356 [8564:604:1126/145122.355:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+
+Nov 30, 2020 18:51:37.737 NEW SESSION
+Nov 30, 2020 18:51:37.738 [6464:5532:1130/185137.714:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 30, 2020 18:51:39.734 [6464:1372:1130/185139.734:ERROR:device_event_log_impl.cc(208)] [18:51:39.717] Bluetooth: bluetooth_adapter_winrt.cc:716 GetBluetoothAdapterStaticsActivationFactory failed: Class not registered (0x80040154)
+Nov 30, 2020 18:51:47.629 [6464:1372:1130/185147.628:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Connection failed (-106).
+Nov 30, 2020 18:51:47.747 [6464:1372:1130/185147.746:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Connection failed (-106).
+Nov 30, 2020 18:51:48.163 [6464:1372:1130/185148.162:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Connection failed (-106).
+Nov 30, 2020 18:51:48.746 [6464:1372:1130/185148.745:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Connection failed (-106).
+Nov 30, 2020 18:51:59.175 [6464:5532:1130/185159.174:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 30, 2020 18:52:43.79 [6464:5532:1130/185243.078:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 30, 2020 18:54:12.516 [6464:5532:1130/185412.516:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 30, 2020 18:57:03.472 [6464:5532:1130/185703.471:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 30, 2020 19:00:44.855 [1130/190044.855:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+Nov 30, 2020 19:04:04.910 [6464:5532:1130/190404.909:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 30, 2020 19:19:18.90 [6464:5532:1130/191918.071:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Nov 30, 2020 19:19:18.539 [6464:5532:1130/191918.539:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Nov 30, 2020 19:19:47.543 [6464:5532:1130/191947.543:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Nov 30, 2020 19:20:41.411 [6464:5532:1130/192041.411:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Nov 30, 2020 19:22:18.228 [6464:5532:1130/192218.228:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Nov 30, 2020 19:26:17.708 [6464:5532:1130/192617.698:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Nov 30, 2020 19:32:37.338 [6464:5532:1130/193237.338:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Nov 30, 2020 19:42:37.363 [6464:5532:1130/194237.362:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Nov 30, 2020 19:52:37.375 [6464:5532:1130/195237.374:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Nov 30, 2020 20:02:45.468 [6464:5532:1130/200245.467:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Nov 30, 2020 20:02:47.808 [6464:5532:1130/200247.806:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 30, 2020 20:12:47.811 [6464:5532:1130/201247.810:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 30, 2020 20:22:47.814 [6464:5532:1130/202247.813:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 30, 2020 20:32:47.822 [6464:5532:1130/203247.821:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 30, 2020 20:42:47.829 [6464:5532:1130/204247.828:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 30, 2020 20:52:47.832 [6464:5532:1130/205247.832:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Dec 01, 2020 14:29:56.485 NEW SESSION
+Dec 01, 2020 14:29:56.485 [8968:8412:1201/142956.452:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 01, 2020 14:30:00.493 [8968:7844:1201/143000.491:ERROR:device_event_log_impl.cc(208)] [14:30:00.399] Bluetooth: bluetooth_adapter_winrt.cc:716 GetBluetoothAdapterStaticsActivationFactory failed: Class not registered (0x80040154)
+Dec 01, 2020 14:30:23.120 [8968:8412:1201/143023.120:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 01, 2020 14:31:12.873 [8968:8412:1201/143112.872:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 01, 2020 14:32:57.84 [8968:8412:1201/143257.083:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 01, 2020 14:35:31.295 [8968:8412:1201/143531.295:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 01, 2020 14:35:44.933 [8968:8412:1201/143544.927:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 01, 2020 14:35:47.188 [8968:8412:1201/143547.188:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 01, 2020 14:38:39.27 [1201/143839.015:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+Dec 01, 2020 14:45:47.191 [8968:8412:1201/144547.190:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 01, 2020 14:55:47.194 [8968:8412:1201/145547.193:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 01, 2020 15:05:47.197 [8968:8412:1201/150547.196:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 01, 2020 15:15:47.200 [8968:8412:1201/151547.199:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 01, 2020 15:25:47.210 [8968:8412:1201/152547.207:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 01, 2020 15:35:47.218 [8968:8412:1201/153547.214:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 01, 2020 15:45:47.218 [8968:8412:1201/154547.217:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 01, 2020 15:55:47.227 [8968:8412:1201/155547.226:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 01, 2020 16:05:47.234 [8968:8412:1201/160547.233:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 01, 2020 16:15:47.237 [8968:8412:1201/161547.236:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106

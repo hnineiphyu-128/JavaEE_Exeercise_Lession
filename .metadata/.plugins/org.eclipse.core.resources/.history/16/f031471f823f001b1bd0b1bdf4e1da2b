@@ -1,0 +1,8 @@
+package com.mmit.scope;
+
+import java.io.Serializable;
+
+public class Counter implements Serializable {
+
+	
+}

@@ -1,0 +1,38 @@
+package com.mmit.controller;
+
+import java.io.IOException;
+
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+//@WebServlet("/studentlist")
+@WebServlet(urlPatterns = {"/studentlist, /add-student"})
+public class StudentController extends HttpServlet {
+
+	private static final long serialVersionUID = 1L;
+	
+	@Override
+	protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+		// TODO Auto-generated method stub
+		String path = req.getServletPath();
+//		System.out.println(path);
+		if(path.equals("/studentlist"))
+		{
+			req.setAttribute("title", "studentlist");
+			getServletContext().getRequestDispatcher("/student.jsp").forward(req, resp);
+		}else {
+			req.setAttribute("title", "addstudent");
+			getServletContext().getRequestDispatcher("/student-add.jsp").forward(req, resp);
+		}
+		
+	}
+
+	@Override
+	protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+		// TODO Auto-generated method stub
+		
+	}
+}

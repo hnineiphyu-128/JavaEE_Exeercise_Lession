@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;common&apos; to &apos;webapp&apos;&#x0D;&#x0A;- Original project: &apos;06-EL-JSTL&apos;&#x0D;&#x0A;- Destination element: &apos;webapp&apos;&#x0D;&#x0A;- Original element: &apos;common&apos;" description="Copy folder" element1="src/main/webapp/common" files="0" flags="589830" folders="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1608542644483" target="/07-Servlet-FileUpload/src/main/webapp" units="0" version="1.0"/>
+</session>

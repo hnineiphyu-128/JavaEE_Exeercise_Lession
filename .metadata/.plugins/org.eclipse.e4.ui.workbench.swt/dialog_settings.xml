@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ShowViewDialog">
+		<item key="ShowViewDialog.STORE_SELECTED_VIEW_ID" value="org.eclipse.jpt.ui.jpaDetailsView"/>
+		<item key="DIALOG_X_ORIGIN" value="547"/>
+		<item key="DIALOG_Y_ORIGIN" value="68"/>
+		<item key="DIALOG_WIDTH" value="288"/>
+		<item key="DIALOG_HEIGHT" value="456"/>
+		<item key="DIALOG_FONT_NAME" value="1|Zawgyi-One|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|0|0|0|0|0|Zawgyi-One"/>
+		<list key="ShowViewDialog.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="JPA"/>
+		</list>
+	</section>
+</section>

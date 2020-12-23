@@ -1,0 +1,47 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>All Students</title>
+
+<!-- CSS -->
+<link href="common/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+
+<!-- JS -->
+<script type="text/javascript" src="common/js/jquery.min.js"></script>
+<script type="text/javascript" src="common/js/bootstrap.min.js"></script>
+
+</head>
+<body>
+
+	<!-- Menu -->
+	<jsp:include page="common/menu.jsp"></jsp:include>
+	
+	<div class="container">
+		<div class="row">
+			<div class="col">
+				<h3 class="d-inline-block my-3">All Students</h3>
+				<c:url value="/add-student " var="add"></c:url>
+				<a href="${add}" class="btn btn-outline-primary float-right my-3"> Add New</a>
+				<table class="table">
+					<thead class="table-dark">
+						<tr>
+							<th>#</th>
+							<th>Name</th>
+							<th>Price</th>
+							<th>Level</th>
+							<th>Duration(Month)</th>
+							<th>StartDate</th>
+						</tr>
+					</thead>
+					<tbody>
+					</tbody>
+				</table>
+			</div>
+		</div>
+	</div>
+
+</body>
+</html>

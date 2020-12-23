@@ -1,0 +1,52 @@
+package com.mmit.controller;
+
+import java.io.IOException;
+
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import com.mmit.entity.Course;
+
+@WebServlet("/add-course")
+public class CourseController extends HttpServlet {
+
+	private static final long serialVersionUID = 1L;
+	
+	@Override
+	protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+		// TODO Auto-generated method stub
+		
+	}
+	
+	@Override
+	protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+		// TODO Auto-generated method stub
+		
+		//get parameter data
+		String name = req.getParameter("name");
+		String price = req.getParameter("price");
+		String level = req.getParameter("level");
+		String duration = req.getParameter("duration");
+		String namestartdate = req.getParameter("startdate");
+		
+		
+		//create course obj
+		Course c = new Course();
+		c.setName(name);
+		c.setPrice(price);
+		c.setLevel(level);
+		c.setDuration(duration);
+		c.setStartdate(startdate);
+		
+		//get Session obj
+		
+		//add course obj to session
+		
+		//invoke other web page
+		
+	}
+
+}
